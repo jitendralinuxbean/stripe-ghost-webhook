@@ -1,0 +1,6 @@
+{
+  "name": "stripe-webhook",
+  "dependencies": {
+    "stripe": "^18.0.0"
+  }
+}
